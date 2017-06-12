@@ -1,0 +1,57 @@
+html{
+
+	height:100vh;
+}
+
+body{
+   background-image: url("buckbw.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	 background-position: 30% 20%;
+
+	}
+
+	#desc{
+
+		background-color: #003366;
+		opacity: 0.7;
+		color:white;
+		
+		padding:1vh 2vh 1vh 1vh;
+	}
+
+	#top-img{
+
+		
+	}
+
+	#about
+	{
+        
+		color: yellow;
+		text-decoration: underline;
+	}
+
+	
+
+	#blue-box {
+  background-color: #003366;
+font-size: 6vh;
+opacity: 0.7;
+color: white;
+height: auto;
+padding:5vh 5vh 5vh 5vh;
+
+
+}
+
+#sub-blue-box{
+  background-color: #003366;
+font-size: 6vh;
+color: white;
+height: auto;
+padding:5vh 5vh 5vh 5vh;
+opacity:0.7;
+}
+
